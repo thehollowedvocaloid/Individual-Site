@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+}
+body {
+	background-color: #fae8ff;
+}
+.Box {
+	
+  	width: 50%;
+	background-color: #ffa0f0;
+	padding: 3% 5% 5% 5%;
+	border-radius: 50px;
+	border-color: purple;
+    border-width: 10px;
+    border-style: solid;
+	margin: 20px;
+	
+}
+img {
+	margin-right: 200px;
+	margin-top: 20px;
+	border-radius: 100px;
+	Height: 450px;
+	
+}
+
+#swf-holder {
+	position: center;
+	margin: 0%;
+	left: -40px;
+}
+
+
+.center {
+	text-align: center;
+	
+}
+
+
+/*Nav Bar styling*/
+.topnav {
+	background-color: #8800ba;
+	overflow: hidden;
+	z-index: 2;
+	top: 0px;
+}
+.topnav a {
+	font-size: 17px;
+	color: white;
+	padding: 14px 16px;
+	 float: left;
+	text-decoration: none;
+}
+.topnav a:hover {
+  background-color: #d76dff;
+  color: black;
+}
+.topnav li {
+	list-style-type: none;
+}
+
+/*Nav Bar Styling End*/
